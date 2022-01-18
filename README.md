@@ -2,7 +2,8 @@
 
 # CEVE 562 Python Demo
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+<a href="https://colab.research.google.com"><img alt="Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+
 </div>
 
 ## Description
@@ -13,7 +14,7 @@ Jupyter notebooks for CEVE-562 Python demo.
 
 Run using Google Colab.
 1. Open a notebook
-2. Launch the notebook in Google Colab using the ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) button
+2. Launch the notebook in Google Colab using the <a href="https://colab.research.google.com"><img alt="Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a> button
 
 Install using Conda
 
